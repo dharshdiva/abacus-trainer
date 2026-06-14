@@ -66,7 +66,7 @@ CREATE TABLE IF NOT EXISTS sessions (
 
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/abacus-trainer.git
+git clone https://github.com/dharshdiva/abacus-trainer.git
 cd abacus-trainer
 
 # Run the application
